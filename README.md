@@ -2,7 +2,7 @@
 
 A brief description of what your project does.
 
-![Express.js](https://via.placeholder.com/100) ![Mongoose](https://via.placeholder.com/100) ![Node.js](https://via.placeholder.com/100)
+![Express.js]([https://via.placeholder.com/100](https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png)) ![Mongoose](https://via.placeholder.com/100) ![Node.js](https://via.placeholder.com/100)
 
 ## Table of Contents
 
