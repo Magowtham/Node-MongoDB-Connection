@@ -13,7 +13,7 @@ The goal of this project is to showcase a simple setup for connecting MongoDB to
 - Node.js: JS runtime environment.
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" height="50">
 - MongoDB: Nosql Database.
- <img src="https://www.turing.com/blog/wp-content/uploads/2022/02/Mongo-DB-Features.jpg" height="50">
+  <img src="https://www.turing.com/blog/wp-content/uploads/2022/02/Mongo-DB-Features.jpg" height="50">
   
 ## Setup Instructions
 To set up and run the OCR project locally, follow these steps:
